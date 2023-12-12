@@ -1,0 +1,1 @@
+Hey there, wholeworldcoding here teaching you how to add games to your site. Head the apps or games section, and create a new instance of the code.
