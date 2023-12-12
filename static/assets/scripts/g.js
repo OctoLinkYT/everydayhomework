@@ -8,6 +8,13 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
+      name: "Wholeworldcoding Games",
+      link: "https://games.wholeworldcoding.com/",
+      image: "",
+      categories: ['all'],
+      error: false
+    },
+    {
       name: "Dynast.io",
       link: "https://dynast.io",
       image: "/assets/media/icons/dynast-io.png",
