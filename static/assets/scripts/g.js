@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: "Wholeworldcoding Games",
       link: "https://games.wholeworldcoding.com/",
-      image: "",
+      image: "/assets/media/icons/request.webp",
       categories: ['all'],
       error: false
     },
