@@ -8,6 +8,13 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
+      name: "WWC GAMES",
+      link: "https://games.wholeworldcoding.com/",
+      image: "",
+      categories: ["all", "media"],
+      error: false
+    },
+    {
       name: "BuzzFeed Quizzes",
       link: "https://buzzfeed.com/quizzes",
       image: "/assets/media/icons/apps/buzzfeed.png",
